@@ -1,3 +1,10 @@
+group by continents 
+add eu/europe 
+divide by language 
+
+
+
+
 Total Medal Points
 
 Gold = 3 points, Silver = 2 points, Bronze = 1 point
