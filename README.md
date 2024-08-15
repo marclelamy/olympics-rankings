@@ -1,6 +1,12 @@
-group by continents 
-add eu/europe 
-divide by language 
+thoughts dump: 
+* group by continents 
+* add eu/europe 
+* divide by language 
+* allow people to do cudtom operations between columns and...
+* allow people to add a json with country value mapping for new columns as they want 
+    * with default value for missing values 
+    * or leaving missing value which wouldnt count certain countries 
+* save data created by user on local storage
 
 
 
